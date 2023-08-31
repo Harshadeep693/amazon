@@ -1,0 +1,48 @@
+.menu {
+    background-color: black;
+    height: 70px;
+    padding: 0px 0px;
+    display: flex;
+}
+
+.logo {
+    height: 70px;
+    width: 120px;
+}
+
+.loc {
+    color: #fff;
+    display: flex;
+}
+
+.bx-current-location {
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+
+.search {
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+.select {
+    height: 40px;
+    width: 60px;
+    padding: 10px 10px 10px 10px;
+}
+
+.input {
+    width: 250px;
+}
+
+.bx-search {
+    padding: 12px 0px 0px 12px;
+    background-color: orange;
+    width: 30px;
+}
